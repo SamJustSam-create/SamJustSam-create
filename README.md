@@ -65,8 +65,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SamJustSam-create&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=12" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=SamJustSam-create&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&border_radius=12" height="160" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamJustSam-create&theme=dracula" height="160" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamJustSam-create&theme=dracula" height="160" alt="languages" />
 </div>
 
 <div align="center">
@@ -74,7 +74,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamJustSam-create&theme=dracula&hide_border=true&radius=12&area=true" width="95%" alt="activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamJustSam-create&theme=dracula" width="95%" alt="contribution graph" />
 </div>
 
 ---
@@ -100,9 +100,9 @@
 
 ---
 
-<!-- Snake Animation -->
+<!-- Trophies -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SamJustSam-create/SamJustSam-create/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SamJustSam-create&theme=dracula&no-frame=true&column=6&margin-w=10" width="95%" alt="trophies" />
 </div>
 
 <!-- Footer -->
