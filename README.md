@@ -100,11 +100,6 @@
 
 ---
 
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamJustSam-create&theme=dracula&no-frame=true&column=6&margin-w=10" width="95%" alt="trophies" />
-</div>
-
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/SamJustSam-create/SamJustSam-create/output/snake.svg" alt="Snake animation" />
