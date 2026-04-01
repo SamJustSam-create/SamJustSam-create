@@ -105,5 +105,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SamJustSam-create&theme=dracula&no-frame=true&column=6&margin-w=10" width="95%" alt="trophies" />
 </div>
 
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SamJustSam-create/SamJustSam-create/output/snake.svg" alt="Snake animation" />
+</div>
+
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer" alt="footer" />
